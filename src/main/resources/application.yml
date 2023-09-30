@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: spring-boot-kotlin-oauth2-github
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            client-id: c1a15e62391c7b7b45cb
+            client-secret: f9ca60bd595daa262c8abf71ccdf0bacbe9561bb
